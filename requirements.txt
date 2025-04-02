@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+langchain
+chromadb
+openai
+sentence-transformers
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart

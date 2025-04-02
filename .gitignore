@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.env
+.venv/
+env/
+venv/
+
+# VSCode / IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# System
+.DS_Store
+Thumbs.db
+
+# Databases & storage
+*.db
+*.sqlite3
+chroma/
+
+# Tokens e segredos
+.env
+
+# Uvicorn reload artifacts
+*.pid
+
+bin/
+include/
+lib/
+lib64/
+share/
