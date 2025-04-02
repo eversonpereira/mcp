@@ -72,9 +72,3 @@ app/
 
 ## 📬 Contato
 Desenvolvido por [Everson 🧠].
-```yaml
-
----
-
-Se quiser, posso criar e versionar isso automaticamente com `git init`, `git add` e `git commit -m "Initial commit"` também. Deseja?
-```
